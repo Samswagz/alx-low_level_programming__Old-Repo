@@ -3,6 +3,9 @@
  * main - A program that prints lower casa function that prints
  * Return: always 0
  */
+/**
+ * A new kind of variable decclaration
+ */
 void print_alphabet(void)
 {
 	char i;
