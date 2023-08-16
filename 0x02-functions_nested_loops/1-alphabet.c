@@ -1,10 +1,7 @@
 #include "main.h"
 /**
- * main - A program that prints lower casa function that prints
+ * main - A program that prints lower case function 1-alphabet.c
  * Return: always 0
- */
-/**
- * A new kind of variable decclaration
  */
 void print_alphabet(void)
 {
