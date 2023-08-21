@@ -2,7 +2,7 @@
 /**
  * swap_int - A code that swaps
  * @a: The first integer
- * @b; the second integer
+ * @b: the second integer
  * Return: always 0
  */
 void swap_int(int *a, int *b)
