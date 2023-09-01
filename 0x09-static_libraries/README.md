@@ -1,1 +1,1 @@
-Static libraries project
+Introduction to pointers and arrays
