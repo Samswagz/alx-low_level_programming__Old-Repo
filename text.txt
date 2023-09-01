@@ -1,0 +1,13 @@
+cat 
+dog
+dog
+fish 
+cat 
+dog
+fish
+cat dog
+fish caat 
+cat 
+fish
+dog
+
